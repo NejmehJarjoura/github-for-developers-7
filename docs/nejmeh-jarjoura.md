@@ -4,3 +4,5 @@
 **Title:** Front End Web Developer
 
 **Favorite Color:** Green
+
+**Current City:** Beirut
